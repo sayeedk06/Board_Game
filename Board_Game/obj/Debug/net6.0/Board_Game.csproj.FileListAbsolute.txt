@@ -1,0 +1,15 @@
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.csproj.AssemblyReference.cache
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.AssemblyInfoInputs.cache
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.AssemblyInfo.cs
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.csproj.CoreCompileInputs.cache
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\bin\Debug\net6.0\Board_Game.exe
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\bin\Debug\net6.0\Board_Game.deps.json
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\bin\Debug\net6.0\Board_Game.runtimeconfig.json
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\bin\Debug\net6.0\Board_Game.dll
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\bin\Debug\net6.0\Board_Game.pdb
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.dll
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\refint\Board_Game.dll
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.pdb
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\Board_Game.genruntimeconfig.cache
+E:\Australia Journey\Semester 2\IFN563\Board_Game_IFN563\Board_Game\obj\Debug\net6.0\ref\Board_Game.dll
